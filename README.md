@@ -20,7 +20,7 @@ To create these tables the sql command "CREATE TABLE" was used, to input these i
 
 - The next question in this task required retrieving specific column of informations from these tables.
 
-  For the Staff_Info table the Name and Age of the staffs were retrieved an for the Staff_Salary table the ID and Salary were also retrieved
+  For the Staff_Info table the Name and Age of the staffs were retrieved and for the Staff_Salary table the ID and Salary were also retrieved
 
   
 ![](Introduction_MySQL3.png)
@@ -31,7 +31,7 @@ To create these tables the sql command "CREATE TABLE" was used, to input these i
 ![](Introduction_MySQL4.png)
 
 
-To retrieve these information from each table the command "SELECT" came in hand.
+To retrieve these information from each table the command "SELECT * FROM" came in hand.
 
 
 ## Conclusion
